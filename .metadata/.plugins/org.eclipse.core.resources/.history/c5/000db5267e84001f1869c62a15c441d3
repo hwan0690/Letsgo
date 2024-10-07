@@ -134,7 +134,6 @@
 		</dependency>
 
 		<!-- Test -->
-		<!-- 단위 테스트용 어노테이션, 이클립스로 번거롭게 디버깅 하지 않아도 된다. -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
