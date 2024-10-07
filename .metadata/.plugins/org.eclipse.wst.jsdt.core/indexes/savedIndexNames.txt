@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Letsgo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+475378288.index
+1504713053.index
+2790558614.index
+2637547723.index
+155134062.index
+2136437070.index
